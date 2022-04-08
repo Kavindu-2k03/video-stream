@@ -95,3 +95,5 @@ Distributed under the [GNU General Public License v3.0 License](https://github.c
 - [xtaodada](https://github.com/xtao-dada) ``Dev``
 - [Laky's](https://github.com/Laky-64) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/Kavindu-2k03/video-stream)
